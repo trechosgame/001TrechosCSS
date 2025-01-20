@@ -1,5 +1,5 @@
 # TELA DE LOGIN
-<img src="001.jpg" width="500px" alt="Tela De Login Para Usuário Já Cadastrado">
+<img src="001.png" width="500px" alt="Tela De Login Para Usuário Já Cadastrado">
 
 # CÓDIGO FONTE:
  - https://www.youtube.com/watch?v=0xpxZGJqBHU&t=76s
