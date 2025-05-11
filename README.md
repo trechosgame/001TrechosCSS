@@ -1,4 +1,5 @@
 # TELA DE LOGIN
+Trechos de códigos de uma tela de login, desenvolvido com 34.9% de variáveis CSS e 65.1% de elementos HTML.
 <img src="001.png" width="500px" alt="Tela De Login Para Usuário Já Cadastrado">
 
 # Meus Games:
