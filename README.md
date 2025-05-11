@@ -1,18 +1,18 @@
+# TELA DE LOGIN
+<img src="001.png" width="500px" alt="Tela De Login Para Usuário Já Cadastrado">
+
 # Meus Games:
 - https://trechosgame.github.io/Jogo_Da_Forca/app.html
 - https://trechosgame.github.io/Jogo-Quem-Sou-Eu/app.html
 - https://trechosgame.github.io/Quiz-Responsivo/quiz.html
 
-# Redes Sociais:
+# Minhas Redes Sociais:
 - https://www.instagram.com/trechosgame/
 - https://wwwbehance.net/trechosgame
 - hMusttps://www.colab55.com/@trechosdecodigo
 - https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured
 - https://github.com/trechosgame
   
-# TELA DE LOGIN
-<img src="001.png" width="500px" alt="Tela De Login Para Usuário Já Cadastrado">
-
 # CÓDIGO FONTE:
  - https://www.youtube.com/watch?v=0xpxZGJqBHU&t=76s
 
